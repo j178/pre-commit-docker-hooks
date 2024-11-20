@@ -1,0 +1,4 @@
+- id: hello-world
+  name: Hello World
+  entry: "echo Hello World!"
+  language: docker
